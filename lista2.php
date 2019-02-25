@@ -65,7 +65,7 @@ echo "<br> Exercício 4 <br>";
 $vetor_4 = array();
 
 for ($i=0; $i < 50; $i++){
-    $vetor_4[$i] = $i*2;
+    $vetor_4[$i] = ($i+1)*2;
     
 }
 echo "<pre>";
